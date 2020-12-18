@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f882e279-fe97-46d4-9f00-8f080d49cd7d" name="디폴트 변경 목록" comment="" />
+    <list default="true" id="f882e279-fe97-46d4-9f00-8f080d49cd7d" name="디폴트 변경 목록" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-18-Spring_Security_Study_01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,15 +40,20 @@
   </component>
   <component name="ProjectId" id="1loalq0kiJCv3MLeszm8rsLMDUW" />
   <component name="ProjectViewState">
-    <option name="flattenPackages" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="abbreviatePackageNames" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lee\Desktop\Folder\fftl.github.io\_posts" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608266079008</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add: .idea">
+      <created>1608266391703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608266391703</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,16 +95,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Delete: .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete: .idea" />
+    <MESSAGE value="Add: .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add: .idea" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608266201926">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608266960461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/1920.217.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608266201926" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608266084423">
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.217.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608266960461" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1608266317465">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.217.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608266084423" />
+    <state x="461" y="164" key="SettingsEditor/1920.217.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608266317465" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608266394572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.217.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1608266394572" />
   </component>
 </project>
